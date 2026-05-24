@@ -41,7 +41,7 @@ import AddProduct from "./pages/supplier/AddProduct";
 import SupplierAnalytics from "./pages/supplier/SupplierAnalytics";
 
 /* NEW */
-import SupplierDetails from "./pages/SupplierDetails";
+import SupplierDetails from "./pages/supplier/SupplierDetails";
 
 export default function App() {
 
